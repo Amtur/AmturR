@@ -1,2 +1,2 @@
-# AmturR
-Simple python programs DEMOtext.
+# python
+Basic python program on animals.
